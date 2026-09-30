@@ -67,7 +67,7 @@ Category: Normal
 
 ## 📄 Project Documentation
 
-[View Project Documentation](Project_Documentation.pdf)
+[View Project Documentation](BMI_Calculator_Project_Documentation.pdf)
 
 ## 👨‍💻 Author
 
