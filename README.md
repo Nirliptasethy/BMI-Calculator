@@ -46,13 +46,13 @@ git clone https://github.com/Nirliptasethy/bmi-calculator.git
 Open the project folder:
 
 ```bash
-cd bmi-calculator
+cd BMI-calculator
 ```
 
 Run the program:
 
 ```bash
-python bmi_calculator.py
+python BMI_calculator.py
 ```
 
 ## 💻 Sample Output
